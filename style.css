@@ -2,7 +2,6 @@
 * {
 	color: white;
 	margin: 0px;
-	border: 1px solid red;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -54,10 +53,8 @@ a {
 	position: relative;
     top: 50%;
     transform: translateY(-50%);
-    border: 1px solid white;
 }
 .introduction {
-	border: 1px solid blue;
     background-color: purple;
     width: 85%;
     margin-left: auto;
@@ -89,7 +86,6 @@ img	{
 	background-color: #534F88;
 }
 .display {
-   border: 1px solid blue;
     background-color: #F07E7E;
     width: 85%;
     margin-left: auto;
