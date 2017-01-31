@@ -70,6 +70,19 @@ a {
 	padding: 50px;	
 	height: 75%;
 }
+img	{
+	max-height: 100%;
+    
+}
+.photo {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 75%;
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
 .portfolio {
 	height: 500px;
 	background-color: #534F88;
