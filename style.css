@@ -54,6 +54,7 @@ a {
 	position: relative;
     top: 50%;
     transform: translateY(-50%);
+    border: 1px solid white;
 }
 .introduction {
 	border: 1px solid blue;
@@ -86,6 +87,22 @@ img	{
 .portfolio {
 	height: 500px;
 	background-color: #534F88;
+}
+.display {
+   border: 1px solid blue;
+    background-color: #F07E7E;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 36px;
+    font-weight: lighter;
+	font-family: Helvetica, sans-serif;
+	padding: 50px;	
+	height: 75%;
+
 }
 .col-1 {
 	width: 8.33%;
