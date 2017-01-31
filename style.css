@@ -1,5 +1,6 @@
 
 * {
+	color: white;
 	margin: 0px;
 	border: 1px solid red;
 	box-sizing: border-box;
@@ -14,12 +15,18 @@
 }
 .header {
 	height: 25%;
+	background-color: #534F88;
+}
+.logo {
+	background-color:  #F07E7E
 }
 .intro {
 	height: 75%;
+	background-color: #F07E7E;
 }
 .portfolio {
 	height: 500px;
+	background-color: #534F88;
 }
 .col-1 {
 	width: 8.33%;
