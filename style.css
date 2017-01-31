@@ -18,6 +18,7 @@
 	background-color: #534F88;
 }
 .logo {
+	font-family: impact;
 	position: relative;
   	top: 50%;
   	transform: translateY(-50%);
@@ -29,6 +30,10 @@
 	margin-right: auto;
 	width: 75%;
 	
+}
+.nav {
+	background-color: #F07E7E;
+	text-align: center;
 }
 .intro {
 	height: 75%;
