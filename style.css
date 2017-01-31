@@ -50,6 +50,26 @@ a {
 	height: 75%;
 	background-color: #F07E7E;
 }
+.text-block {
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.introduction {
+	border: 1px solid blue;
+    background-color: purple;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 36px;
+    font-weight: lighter;
+	font-family: Helvetica, sans-serif;
+	padding: 50px;	
+	height: 75%;
+}
 .portfolio {
 	height: 500px;
 	background-color: #534F88;
