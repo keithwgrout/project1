@@ -49,6 +49,14 @@ a {
 	height: 75%;
 	background-color: #F07E7E;
 }
+
+/*
+ 	Layout hack for vertical centering:
+ 	
+	position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+ */
 .text-block {
 	position: relative;
     top: 50%;
